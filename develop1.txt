@@ -1,7 +1,1 @@
-kjsdlkflsdkf
-<<<<<<< HEAD
-
-hello there
-=======
-sdfsfrewrewr
->>>>>>> 94073549a1c45d19c99c1dfef459771381ef4a6e
+hi there
